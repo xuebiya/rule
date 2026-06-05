@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN,cdn.steamusercontent.com
+DOMAIN-SUFFIX,steamusercontent.com
